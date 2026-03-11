@@ -1,0 +1,11 @@
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\bin\Debug\PreLab1.exe.config
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\bin\Debug\PreLab1.exe
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\bin\Debug\PreLab1.pdb
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\obj\Debug\PreLab1.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\obj\Debug\PreLab1.Form1.resources
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\obj\Debug\PreLab1.Properties.Resources.resources
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\obj\Debug\PreLab1.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\obj\Debug\PreLab1.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\obj\Debug\PreLab1.exe
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\obj\Debug\PreLab1.pdb
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\PreLab1\obj\Debug\PreLab1.exe.config
