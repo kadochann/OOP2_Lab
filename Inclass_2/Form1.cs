@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 using System.Windows.Forms;
 
 namespace PreLab1
@@ -12,56 +11,62 @@ namespace PreLab1
         {
             InitializeComponent();
 
-            // Sayı kontrolü için event bağlama
             this.textBox1.KeyPress += textBox1_KeyPress;
 
-            // Checkpoint 2: Checkbox başlangıçta işaretli olsun
+            // Checkbox başlangıçta işaretli 
             checkBox1.Checked = true;
             button1.Text = "Generate and Calculate";
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            // Checkpoint 6: Checkbox durumuna göre Buton metni güncelleme
             button1.Text = checkBox1.Checked ? "Generate and Calculate" : "Generate";
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox2.Checked)
+            {
+                // İşaretlendiğinde değeri 10 yap ve inputu kilitle
+                textBox1.Text = "10";
+                textBox1.ReadOnly = true;
+                textBox1.Enabled = false;
+            }
+            else
+            {
+                // İşaret kaldırıldığında input kilidini aç
+                textBox1.ReadOnly = false;
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // Textbox boş mu veya geçerli sayı mı kontrolü (Hata mesajı gereksinimi)
             if (int.TryParse(textBox1.Text, out int boyut) && boyut > 0)
             {
-                // Checkpoint 3: Diziyi ilk 2 değer (1, 1) ile başlat
-                dizi = new int[2];
-                dizi[0] = 1;
+                dizi = new int[3];
+                dizi[0] = 0;
                 dizi[1] = 1;
+                dizi[2] = 1;
 
-                // Checkpoint 4: Diziyi kullanıcının girdiği boyuta göre yeniden boyutlandır (Array.Resize)
-                // Eğer kullanıcı 1 girerse dizi 1 elemana düşer, 5 girerse 5 elemana çıkar.
                 Array.Resize(ref dizi, boyut);
 
-                // Fibonacci serisini hesapla (Eğer boyut 2'den büyükse)
                 for (int i = 2; i < boyut; i++)
                 {
                     dizi[i] = dizi[i - 1] + dizi[i - 2];
                 }
 
-                // Checkpoint 4: Multiline textbox'a yazdırma
                 textBoxOutput.Clear();
                 double toplam = 0;
 
                 for (int i = 0; i < boyut; i++)
                 {
-                    // Environment.NewLine ile alt alta yazdırıyoruz
                     textBoxOutput.AppendText(dizi[i].ToString() + Environment.NewLine);
                     toplam += dizi[i];
                 }
 
-                // Checkpoint 5: Eğer checkbox işaretliyse ortalama hesapla ve Label'a yazdır
                 if (checkBox1.Checked)
                 {
                     double ortalama = toplam / boyut;
-                    // Sayının virgülden sonraki kısmını çok uzatmamak için "F2" formatını kullanabilirsin, güzel durur
                     labelAverage.Text = "AVERAGE: " + ortalama.ToString("F2");
                 }
                 else
@@ -71,14 +76,12 @@ namespace PreLab1
             }
             else
             {
-                // Geçersiz veya boş değer girildiğinde hata mesajı
                 MessageBox.Show("Lütfen terim sayısı (N) için geçerli ve pozitif bir tam sayı girin!", "Hatalı Giriş", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            // Checkpoint 1: Sadece rakam girişine izin ver (ve silme tuşu - backspace)
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;

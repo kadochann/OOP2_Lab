@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casper\\Desktop\\Ders Notlar\u0131\\CENG 4. s\u0131n\u0131f 2. d\u00F6nem\\Inclass_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632AE14E-3CC7-4861-9AC8-A8937E0F363D}|PreLab1.csproj|c:\\users\\casper\\desktop\\ders notlar\u0131\\ceng 4. s\u0131n\u0131f 2. d\u00F6nem\\inclass_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632AE14E-3CC7-4861-9AC8-A8937E0F363D}|PreLab1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632AE14E-3CC7-4861-9AC8-A8937E0F363D}|PreLab1.csproj|C:\\Users\\Casper\\Desktop\\Ders Notlar\u0131\\CENG 4. s\u0131n\u0131f 2. d\u00F6nem\\Inclass_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{632AE14E-3CC7-4861-9AC8-A8937E0F363D}|PreLab1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632AE14E-3CC7-4861-9AC8-A8937E0F363D}|PreLab1.csproj|C:\\Users\\Casper\\Desktop\\Ders Notlar\u0131\\CENG 4. s\u0131n\u0131f 2. d\u00F6nem\\Inclass_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632AE14E-3CC7-4861-9AC8-A8937E0F363D}|PreLab1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\Ders Notlar\u0131\\CENG 4. s\u0131n\u0131f 2. d\u00F6nem\\Inclass_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\Ders Notlar\u0131\\CENG 4. s\u0131n\u0131f 2. d\u00F6nem\\Inclass_2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:50:08.542Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\Ders Notlar\u0131\\CENG 4. s\u0131n\u0131f 2. d\u00F6nem\\Inclass_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\Ders Notlar\u0131\\CENG 4. s\u0131n\u0131f 2. d\u00F6nem\\Inclass_2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:08:43.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\Ders Notlar\u0131\\CENG 4. s\u0131n\u0131f 2. d\u00F6nem\\Inclass_2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\Ders Notlar\u0131\\CENG 4. s\u0131n\u0131f 2. d\u00F6nem\\Inclass_2\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:50:38.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

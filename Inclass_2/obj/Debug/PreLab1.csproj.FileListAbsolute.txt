@@ -20,3 +20,25 @@ C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\OOP2_Lab\PreLab2
 C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\OOP2_Lab\PreLab2\obj\Debug\PreLab1.csproj.CoreCompileInputs.cache
 C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\OOP2_Lab\PreLab2\obj\Debug\PreLab1.exe
 C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\OOP2_Lab\PreLab2\obj\Debug\PreLab1.pdb
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\bin\Debug\PreLab1.exe.config
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\bin\Debug\PreLab1.exe
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\bin\Debug\PreLab1.pdb
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\obj\Debug\PreLab1.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\obj\Debug\PreLab1.exe.config
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\obj\Debug\PreLab1.Form1.resources
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\obj\Debug\PreLab1.Properties.Resources.resources
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\obj\Debug\PreLab1.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\obj\Debug\PreLab1.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\obj\Debug\PreLab1.exe
+C:\Users\Casper\Desktop\inclass2\OOP2_Lab\Inclass_2\obj\Debug\PreLab1.pdb
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\bin\Debug\PreLab1.exe.config
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\bin\Debug\PreLab1.exe
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\bin\Debug\PreLab1.pdb
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\obj\Debug\PreLab1.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\obj\Debug\PreLab1.exe.config
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\obj\Debug\PreLab1.Form1.resources
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\obj\Debug\PreLab1.Properties.Resources.resources
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\obj\Debug\PreLab1.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\obj\Debug\PreLab1.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\obj\Debug\PreLab1.exe
+C:\Users\Casper\Desktop\Ders Notları\CENG 4. sınıf 2. dönem\Inclass_2\obj\Debug\PreLab1.pdb
