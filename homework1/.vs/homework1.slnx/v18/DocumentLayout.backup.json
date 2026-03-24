@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vm\\source\\repos\\homework1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64201A9A-A217-411A-A72E-380100482BEF}|homework1\\homework1.csproj|C:\\Users\\vm\\source\\repos\\homework1\\homework1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64201A9A-A217-411A-A72E-380100482BEF}|homework1\\homework1.csproj|solutionrelative:homework1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64201A9A-A217-411A-A72E-380100482BEF}|homework1\\homework1.csproj|C:\\Users\\vm\\source\\repos\\homework1\\homework1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64201A9A-A217-411A-A72E-380100482BEF}|homework1\\homework1.csproj|solutionrelative:homework1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64201A9A-A217-411A-A72E-380100482BEF}|homework1\\homework1.csproj|c:\\users\\vm\\source\\repos\\homework1\\homework1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64201A9A-A217-411A-A72E-380100482BEF}|homework1\\homework1.csproj|solutionrelative:homework1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vm\\source\\repos\\homework1\\homework1\\Form1.cs",
+              "RelativeDocumentMoniker": "homework1\\Form1.cs",
+              "ToolTip": "C:\\Users\\vm\\source\\repos\\homework1\\homework1\\Form1.cs",
+              "RelativeToolTip": "homework1\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwv1cAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:55:39.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vm\\source\\repos\\homework1\\homework1\\Form1.cs",
+              "RelativeDocumentMoniker": "homework1\\Form1.cs",
+              "ToolTip": "C:\\Users\\vm\\source\\repos\\homework1\\homework1\\Form1.cs [Design]",
+              "RelativeToolTip": "homework1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T13:43:15.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vm\\source\\repos\\homework1\\homework1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "homework1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\vm\\source\\repos\\homework1\\homework1\\Form1.Designer.cs",
+              "RelativeToolTip": "homework1\\Form1.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:52:14.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
