@@ -8,3 +8,13 @@ C:\Users\vm\source\repos\homework1\homework1\obj\Debug\homework1.csproj.Generate
 C:\Users\vm\source\repos\homework1\homework1\obj\Debug\homework1.csproj.CoreCompileInputs.cache
 C:\Users\vm\source\repos\homework1\homework1\obj\Debug\homework1.exe
 C:\Users\vm\source\repos\homework1\homework1\obj\Debug\homework1.pdb
+C:\Users\vm\repos\OOP2_Lab\homework1\homework1\bin\Debug\homework1.exe.config
+C:\Users\vm\repos\OOP2_Lab\homework1\homework1\bin\Debug\homework1.exe
+C:\Users\vm\repos\OOP2_Lab\homework1\homework1\bin\Debug\homework1.pdb
+C:\Users\vm\repos\OOP2_Lab\homework1\homework1\obj\Debug\homework1.csproj.AssemblyReference.cache
+C:\Users\vm\repos\OOP2_Lab\homework1\homework1\obj\Debug\homework1.Form1.resources
+C:\Users\vm\repos\OOP2_Lab\homework1\homework1\obj\Debug\homework1.Properties.Resources.resources
+C:\Users\vm\repos\OOP2_Lab\homework1\homework1\obj\Debug\homework1.csproj.GenerateResource.cache
+C:\Users\vm\repos\OOP2_Lab\homework1\homework1\obj\Debug\homework1.csproj.CoreCompileInputs.cache
+C:\Users\vm\repos\OOP2_Lab\homework1\homework1\obj\Debug\homework1.exe
+C:\Users\vm\repos\OOP2_Lab\homework1\homework1\obj\Debug\homework1.pdb

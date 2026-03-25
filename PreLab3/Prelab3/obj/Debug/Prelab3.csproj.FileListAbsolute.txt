@@ -1,0 +1,10 @@
+C:\Users\vm\source\repos\Prelab3\Prelab3\obj\Debug\Prelab3.csproj.AssemblyReference.cache
+C:\Users\vm\source\repos\Prelab3\Prelab3\obj\Debug\Prelab3.Properties.Resources.resources
+C:\Users\vm\source\repos\Prelab3\Prelab3\obj\Debug\Prelab3.csproj.GenerateResource.cache
+C:\Users\vm\source\repos\Prelab3\Prelab3\obj\Debug\Prelab3.csproj.CoreCompileInputs.cache
+C:\Users\vm\source\repos\Prelab3\Prelab3\bin\Debug\Prelab3.exe.config
+C:\Users\vm\source\repos\Prelab3\Prelab3\bin\Debug\Prelab3.exe
+C:\Users\vm\source\repos\Prelab3\Prelab3\bin\Debug\Prelab3.pdb
+C:\Users\vm\source\repos\Prelab3\Prelab3\obj\Debug\Prelab3.Form1.resources
+C:\Users\vm\source\repos\Prelab3\Prelab3\obj\Debug\Prelab3.exe
+C:\Users\vm\source\repos\Prelab3\Prelab3\obj\Debug\Prelab3.pdb
