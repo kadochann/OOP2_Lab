@@ -29,8 +29,10 @@ namespace Prelab3
         {
             currentTime = DateTime.Now;
 
-            dtpTime.Format = DateTimePickerFormat.Time;
-            dtpTime.ShowUpDown = true;
+            this.dtpTime.CustomFormat = "HH:mm:ss";
+            this.dtpTime.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpTime.ShowUpDown = true;
+
 
             timer1.Interval = 1000;
             timer1.Start();

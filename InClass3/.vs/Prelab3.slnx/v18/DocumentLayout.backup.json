@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\vm\\source\\repos\\Prelab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17F205F5-D5D3-43A9-9B77-4E16B6D47E21}|Prelab3\\Prelab3.csproj|c:\\users\\vm\\source\\repos\\prelab3\\prelab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17F205F5-D5D3-43A9-9B77-4E16B6D47E21}|Prelab3\\Prelab3.csproj|C:\\Users\\vm\\source\\repos\\Prelab3\\prelab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17F205F5-D5D3-43A9-9B77-4E16B6D47E21}|Prelab3\\Prelab3.csproj|solutionrelative:prelab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F205F5-D5D3-43A9-9B77-4E16B6D47E21}|Prelab3\\Prelab3.csproj|c:\\users\\vm\\source\\repos\\prelab3\\prelab3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F205F5-D5D3-43A9-9B77-4E16B6D47E21}|Prelab3\\Prelab3.csproj|solutionrelative:prelab3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17F205F5-D5D3-43A9-9B77-4E16B6D47E21}|Prelab3\\Prelab3.csproj|c:\\users\\vm\\source\\repos\\prelab3\\prelab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{17F205F5-D5D3-43A9-9B77-4E16B6D47E21}|Prelab3\\Prelab3.csproj|solutionrelative:prelab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F205F5-D5D3-43A9-9B77-4E16B6D47E21}|Prelab3\\Prelab3.csproj|C:\\Users\\vm\\source\\repos\\Prelab3\\prelab3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F205F5-D5D3-43A9-9B77-4E16B6D47E21}|Prelab3\\Prelab3.csproj|solutionrelative:prelab3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,13 +26,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\vm\\source\\repos\\Prelab3\\Prelab3\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Prelab3\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\vm\\source\\repos\\Prelab3\\Prelab3\\Form1.Designer.cs",
               "RelativeToolTip": "Prelab3\\Form1.Designer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwFQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T17:57:06.033Z",
               "EditorCaption": ""
@@ -43,21 +43,21 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\vm\\source\\repos\\Prelab3\\Prelab3\\Form1.cs",
               "RelativeDocumentMoniker": "Prelab3\\Form1.cs",
-              "ToolTip": "C:\\Users\\vm\\source\\repos\\Prelab3\\Prelab3\\Form1.cs",
-              "RelativeToolTip": "Prelab3\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\vm\\source\\repos\\Prelab3\\Prelab3\\Form1.cs*",
+              "RelativeToolTip": "Prelab3\\Form1.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T17:51:42.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\vm\\source\\repos\\Prelab3\\Prelab3\\Form1.cs",
               "RelativeDocumentMoniker": "Prelab3\\Form1.cs",
-              "ToolTip": "C:\\Users\\vm\\source\\repos\\Prelab3\\Prelab3\\Form1.cs [Design]",
-              "RelativeToolTip": "Prelab3\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\vm\\source\\repos\\Prelab3\\Prelab3\\Form1.cs [Design]*",
+              "RelativeToolTip": "Prelab3\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T17:46:54.742Z",
               "EditorCaption": " [Design]"

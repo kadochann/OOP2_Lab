@@ -58,12 +58,14 @@
             // 
             // dtpTime
             // 
+            this.dtpTime.CustomFormat = "hh:mm:ss";
             this.dtpTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dtpTime.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dtpTime.Location = new System.Drawing.Point(49, 229);
             this.dtpTime.Name = "dtpTime";
             this.dtpTime.Size = new System.Drawing.Size(142, 31);
             this.dtpTime.TabIndex = 1;
+            this.dtpTime.Value = new System.DateTime(2026, 3, 25, 23, 14, 0, 0);
             // 
             // btnColorPicker
             // 
@@ -89,7 +91,7 @@
             this.clbTimeZones.FormattingEnabled = true;
             this.clbTimeZones.Location = new System.Drawing.Point(374, 30);
             this.clbTimeZones.Name = "clbTimeZones";
-            this.clbTimeZones.Size = new System.Drawing.Size(269, 160);
+            this.clbTimeZones.Size = new System.Drawing.Size(269, 154);
             this.clbTimeZones.TabIndex = 4;
             // 
             // txtTimeZoneName
