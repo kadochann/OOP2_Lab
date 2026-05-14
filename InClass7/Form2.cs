@@ -2,6 +2,7 @@
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
+
 public partial class Form2 : Form
 {
     private string _currentUsername;
@@ -76,5 +77,9 @@ public partial class Form2 : Form
         {
             lstHistory.Items.Add(item); 
         }
+    }
+    private void Form2_FormClosed(object sender, FormClosedEventArgs e)
+    {
+        Application.Exit(); 
     }
 }

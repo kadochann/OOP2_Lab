@@ -1,0 +1,11 @@
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\bin\Debug\InClass7.exe.config
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\bin\Debug\InClass7.exe
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\bin\Debug\InClass7.pdb
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\obj\Debug\InClass7.csproj.AssemblyReference.cache
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\obj\Debug\Form1.resources
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\obj\Debug\Form2.resources
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\obj\Debug\InClass7.Properties.Resources.resources
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\obj\Debug\InClass7.csproj.GenerateResource.cache
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\obj\Debug\InClass7.csproj.CoreCompileInputs.cache
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\obj\Debug\InClass7.exe
+C:\Users\Kadriye Harmancı\Desktop\hw\OOP2_Lab\InClass7\obj\Debug\InClass7.pdb
