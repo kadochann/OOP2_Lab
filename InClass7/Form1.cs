@@ -16,5 +16,10 @@ namespace InClass7
         {
             InitializeComponent();
         }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
